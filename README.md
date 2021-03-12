@@ -1,5 +1,5 @@
 # AI-DATA
-moist for cassandra( flask )
+mnist for cassandra( flask )
 
 
 Tensorflow ( mnist )
